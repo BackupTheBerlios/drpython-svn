@@ -1,0 +1,156 @@
+<Plugins>Abbreviations
+CodeCompletion
+Codemarks
+CopyCutPasteExtend
+CTags
+DocumentationBookmarksMenu
+DocList
+FindAll
+FindAutoComplete
+FindFiles
+FullScreen
+IncrementalSearch
+InsertMenu
+KeyboardMacros
+ListShortCuts
+PositionMarker
+PyCheckerSupport
+RedirectOutput
+RunFromBuffer
+SearchInFiles
+Sessions
+ShellMenu
+Switcheroo
+ToDoList
+TracebackMenu
+Quickmarker</Plugins>
+<Abbreviations>
+<Version>0.0.2</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Abbreviations as in Scite (Also supports Scite abbreviation files).</Description>
+</Abbreviations>
+<CodeCompletion>
+<Version>0.2.1</Version>
+<Author>Daniel Pozmanter, Tom De Muer</Author>
+<Description>Provides possible completions for modules using a list of their functions generated on the fly.  Also provides calltips for function.  Uses keybindings set in the Shortcuts Dialog.  Dynamically updates the namespace.  (Originally Calltips by Tom, AutoComplete by Dan).</Description>
+</CodeCompletion>
+<Codemarks>
+<Version>0.0.5</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Mark lines in your code, and return to that line when you activate the codemark.  Uses the side panels.</Description>
+</Codemarks>
+<CopyCutPasteExtend>
+<Version>1.0.8</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Functions extending the behaviour of Copy, Cut, and Paste.  Includes Mutiple Clipboards, the capability to append to the clipboard, and to copy an entire line.</Description>
+</CopyCutPasteExtend>
+<CTags>
+<Version>0.0.2</Version>
+<Author>Franz Steinhausler</Author>
+<Description>C/C++ Utility Functions</Description>
+</CTags>
+<DocumentationBookmarksMenu>
+<Version>1.0.2</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Access helpful documentation from the DrPython Menu.</Description>
+</DocumentationBookmarksMenu>
+<DocList>
+<Version>0.1.0</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Functions for manipulating document positions, and access to documents.</Description>
+</DocList>
+<FindAll>
+<Version>0.0.8</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Find all occurances of X, and display them in a side panel of your choice.  Activating an occurance sends you to that occurance.</Description>
+</FindAll>
+<FindAutoComplete>
+<Version>0.1.0</Version>
+<Author>Franz Steinhausler</Author>
+<Description>AutoComplete for the Find/Replace Dialog.</Description>
+</FindAutoComplete>
+<FindFiles>
+<Version>0.0.9</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Utility for Locating Files.</Description>
+</FindFiles>
+<FullScreen>
+<Version>0.0.0</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Adds a Menu Item for Toggling FullScreen Mode.</Description>
+</FullScreen>
+<IncrementalSearch>
+<Version>0.0.1</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Incremental Search, implementing some ideas from Scite and Multi-Edit.</Description>
+</IncrementalSearch>
+<InsertMenu>
+<Version>0.0.1</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Adds a Menu for inserting a document's filename, path, or a bookmark.</Description>
+</InsertMenu>
+<KeyboardMacros>
+<Version>0.0.9</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Record and Run Keyboard Macros.</Description>
+</KeyboardMacros>
+<ListShortCuts>
+<Version>0.0.1</Version>
+<Author>Franz Steinhausler</Author>
+<Description>A dialog for viewing all keyboard shortcuts.</Description>
+</ListShortCuts>
+<PositionMarker>
+<Version>0.0.2</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Set and Go to Multiple Points in a document.</Description>
+</PositionMarker>
+<PyCheckerSupport>
+<Version>1.0.1</Version>
+<Author>Nathan Jones</Author>
+<Description>Support for PyChecker.</Description>
+</PyCheckerSupport>
+<RedirectOutput>
+<Version>0.0.1</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Redirects Standard Output to a wxPython dialog.</Description>
+</RedirectOutput>
+<RunFromBuffer>
+<Version>0.0.2</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Run documents without saving.</Description>
+</RunFromBuffer>
+<SearchInFiles>
+<Version>1.3.0</Version>
+<Author>Franz Steinhausler, Daniel Pozmanter</Author>
+<Description>Search in Files: double clicking a matched file opens that file in DrPython, and automatically performs a Find Operation in that file.  Replace in Files lets you find and replace text in files.  An in program undo feature lets the user restore the files to their pre-Replace Operation state. When you select "Prompt On Replace", a pop up dialog lets you select which matches you wish to run the replace operation on.  (The in program undo feature keeps track of your selections).  (As of Filename 1.1.0: By Franz Steinhausler)</Description>
+</SearchInFiles>
+<Sessions>
+<Version>1.0.9</Version>
+<Author>Franz Steinhausler, Daniel Pozmanter</Author>
+<Description>Save Open Files, and Program Arguments and Folding Information for each document.</Description>
+</Sessions>
+<ShellMenu>
+<Version>1.0.0</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Run shell commands in the prompt, or completely detached from DrPython.</Description>
+</ShellMenu>
+<Switcheroo>
+<Version>1.0.4</Version>
+<Author>Daniel Pozmanter</Author>
+<Description>Switch all occurances of X with Y, and Y with X.</Description>
+</Switcheroo>
+<ToDoList>
+<Version>0.2.0</Version>
+<Author>Christophe Zwerschke</Author>
+<Description>A To Do List for DrPython.</Description>
+</ToDoList>
+<TracebackMenu>
+<Version>1.0.2</Version>
+<Author>Daniel Pozmanter</Author>
+<Description> Provides functions to: Insert marked Traceback statements after every except statement in your document, Remove the marked Traceback statements, and Insert a single marked Traceback statement at the current position.</Description>
+</TracebackMenu>
+<Quickmarker>
+<Version>0.0.5</Version>
+<Author>Franz Steinhausler</Author>
+<Description>Quickly save a single position, and return to it when needed.</Description>
+</Quickmarker>

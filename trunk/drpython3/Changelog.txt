@@ -1,0 +1,24 @@
+<Release Number=161>
+Removing the buggy debugger for now.
+Focus is set in each tab when switching documents.
+The focus is set to the current document when a program ends.
+(BugReport/Feature-Request, Thanks schmolch)
+Added code for Save A Copy (Thanks Stewart Midwinter)
+SourceBrowser autorefresh is saved again.
+Changed the location of the mode dialog bitmaps.
+</Release>
+<Release Number=160>
+"Toronto Edition"
+
+Huge Thanks to Greg Wilson, Tim Smith, Patrick Smith, and Laurie MacDougall.
+
+new features:
+
+graphical debugger
+import all
+user modes (beginner, advanced)
+pydoc browser
+
+plus other fixes and ui tweaks.
+</Release>
+
